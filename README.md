@@ -11,25 +11,18 @@ Types of security for computers and types of computer security threats
 As I’ve said before, getting a security suite is an all-around problem solver for the different types of computer security threats. So make sure that when choosing individual types of security for computers that you’re possibly vulnerable, keep a more vigilant eye on network security and local security.
 
 
-Antivirus
+Antivirus: This type of security for computers being real-time means they use as little resources as they need, this does limit its capabilities though.
 
-This type of security for computers being real-time means they use as little resources as they need, this does limit its capabilities though.
+Anti-Spyware: Types of security for computers sort of muddle together in this case as antivirus and anti-spyware software do sort of overlap. Because of this, they typically both work as one program.
 
-Anti-Spyware
-
-Types of security for computers sort of muddle together in this case as antivirus and anti-spyware software do sort of overlap. Because of this, they typically both work as one program.
-
-Firewalls
-
-Firewalls are one of the most iconic and easily accessible types of security for computers, even being built-in with most Operating Systems now.
+Firewalls: Firewalls are one of the most iconic and easily accessible types of security for computers, even being built-in with most Operating Systems now.
 The basic gist of these types of security for computers is they monitor unusual network security activities and notify the user of these anomalies.
 
-Anti-Malware
-
-A pretty much last line of defense among the types of security for computers, anti-malware deals with similar things that anti-spyware and antivirus have to deal with but performs checks on a much “deeper” level than the other network securities and local securities.
+Anti-Malware: A pretty much last line of defense among the types of security for computers, anti-malware deals with similar things that anti-spyware and antivirus have to deal with but performs checks on a much “deeper” level than the other network securities and local securities.
 
 
 Cyber Security Strategies
+
 
 Strategy one: Protecting Critical Information Infrastructure
 
@@ -69,35 +62,24 @@ Ease of use and administration
 Scalability
 Interoperability
 
-
 Strategy three: Creating Mechanisms for IT Security
 
 Some basic mechanisms that are in place for ensuring IT security are − link-oriented security measures, end-to-end security measures, association-oriented measures, and data encryption. These methods differ in their internal application features and also in the attributes of the security they provide. Let us discuss them in brief.
 
-Link-Oriented Measures
+Link-Oriented Measures: It delivers security while transferring data between two nodes, irrespective of the eventual source and destination of the data.
 
-It delivers security while transferring data between two nodes, irrespective of the eventual source and destination of the data.
+End-to-End Measures: It is a medium for transporting Protocol Data Units (PDUs) in a protected manner from source to destination in such a way that disruption of any of their communication links does not violate security.
 
-End-to-End Measures
+Association-Oriented Measures: Association-oriented measures are a modified set of end-to-end measures that protect every association individually.
 
-It is a medium for transporting Protocol Data Units (PDUs) in a protected manner from source to destination in such a way that disruption of any of their communication links does not violate security.
-
-Association-Oriented Measures
-
-Association-oriented measures are a modified set of end-to-end measures that protect every association individually.
-
-Data Encryption
-
-It defines some general features of conventional ciphers and the recently developed class of public-key ciphers. It encodes information in a way that only the authorized personnel can decrypt them.
+Data Encryption: It defines some general features of conventional ciphers and the recently developed class of public-key ciphers. It encodes information in a way that only the authorized personnel can decrypt them.
 
 Strategy four: Creating an Assurance Framework
 
 The objective of this strategy is to design an outline in compliance with the global security standards through traditional products, processes, people, and technology.
 To cater to the national security requirements, a national framework known as the Cybersecurity Assurance Framework was developed. It accommodates critical infrastructure organizations and the governments through "Enabling and Endorsing" actions.
 
-Trusted Company Certification
-
-Existing models such as SEI CMM levels are exclusively meant for software development processes and do not address security issues. Therefore, several efforts are made to create a model based on self-certification concept and on the lines of Software Capability Maturity Model (SW-CMM) of CMU, USA.
+Trusted Company Certification: Existing models such as SEI CMM levels are exclusively meant for software development processes and do not address security issues. Therefore, several efforts are made to create a model based on self-certification concept and on the lines of Software Capability Maturity Model (SW-CMM) of CMU, USA.
 The structure that has been produced through such association between industry and government, comprises of the following:
 
 •	standards
